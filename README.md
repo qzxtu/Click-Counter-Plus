@@ -1,3 +1,4 @@
+
 # Click Counter Plus
 
 ```"Click Counter Plus"``` is a simple desktop application built with Python and the ```Tkinter GUI toolkit.``` It allows users to track the number of clicks on a button and increase the increment value for each subsequent click. The application is easy to use and provides users with a clear visual representation of their clicks and increment value.
@@ -19,6 +20,11 @@
 - If you don't have at least one click, clicking the ```"Increase Increment"``` button will display a warning message.
 - To reset the click counter and increment value, close the application window and restart the program.
 That's it! ```"Click Counter Plus"``` is a simple and easy-to-use application that can help you track your clicks and increment value with ease.
+## Screenshots
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1008195045960204349/1099908770827616356/image.png)
+
+
 ## License
 
 [MIT](https://rapidapi.com/openai-api-openai-api-default/api/openai80/)
